@@ -1,9 +1,5 @@
 ## Hi 👋 I am Sofía! 
-I am a junior software developer with foundational knowledge in databases and front-end development. I am eager to expand my skills and gain practical experience in the field. I have a solid understanding of fundamental database concepts, such as data modeling, querying, and basic database administration.
-
-In terms of front-end development, I have a good grasp of HTML, CSS, and JavaScript, which enables me to create and style basic web pages. I am familiar with modern front-end frameworks like React and Nextjs, and I have worked on small projects utilizing these technologies.
-
-As a junior developer, I am enthusiastic about learning new technologies and staying up-to-date with industry trends. I am a quick learner, detail-oriented, and thrive in a collaborative environment. I am eager to contribute to the success of projects and continue honing my skills as a software developer.
+As a junior software developer, I have basic knowledge in databases and front-end development. I'm eager to learn and gain practical experience in the field. I'm proficient in HTML, CSS, and JavaScript, and familiar with React, Nextjs and Angular. I'm detail-oriented, a quick learner, and thrive in collaborative environments. Excited to contribute and grow as a developer.
 <div>
 <img src="https://komarev.com/ghpvc/?username=your-github-sofiademonasterio&style=flat-square&color=blueviolet" alt=""/>
 </div>
