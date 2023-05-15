@@ -6,7 +6,7 @@ As a junior software developer, I have basic knowledge in databases and front-en
 
 ### :fire: My Stats :
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=sofiademonasterio&show_icons=true&theme=radical&hide_border=true&background=000000" width=400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sofiademonasterio&theme=radical&hide_border=true&background=000000" width=400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sofiademonasterio&layout=compact&theme=vision-friendly-dark">
+  <img src = "https://github-readme-stats.vercel.app/api?username=sofiademonasterio&show_icons=true&theme=midnight-purple&hide_border=true&background=000000" width=400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=sofiademonasterio&theme=midnight-purple&hide_border=true&background=000000" width=400>
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sofiademonasterio&layout=compact&theme=midnight-purple&hide_border=true">
 </p>
